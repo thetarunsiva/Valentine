@@ -104,7 +104,7 @@ const Index = () => {
             transition={{ delay: 2, duration: 1.5 }}
             className="font-body text-xl md:text-2xl text-foreground/70 italic leading-relaxed"
           >
-            "It started with a song on a bus… and a girl who called my name."
+            "It started with me on a bus and a girl who talked to me later on.."
           </motion.p>
           <motion.div
             initial={{ opacity: 0 }}
@@ -115,7 +115,7 @@ const Index = () => {
             <span className="text-primary text-2xl" style={{ animation: "pulse-soft 2s infinite" }}>
               ♥
             </span>
-            <p className="text-sm text-muted-foreground mt-2 font-sans-clean">scroll down</p>
+            <p className="text-sm text-muted-foreground mt-2 font-sans-clean">Scroll down</p>
           </motion.div>
         </motion.div>
       </section>
@@ -132,9 +132,9 @@ const Index = () => {
           </h2>
           <p className="font-body text-lg text-foreground/70 mb-8 leading-relaxed">
             A Zoo IV visit. A forest road. A bus. I was singing along to a song,
-            lost in the moment…
+            Lost in the moment…
           </p>
-          <TypewriterSection text="And then… you called my name. And everything changed." />
+          <TypewriterSection text="And then… you called and talked to me. And everything changed." />
         </div>
       </FadeSection>
 
@@ -148,11 +148,11 @@ const Index = () => {
             Side by Side
           </h2>
           <p className="font-body text-lg text-foreground/70 mb-6 leading-relaxed">
-            We sat next to each other in an auditorium. We talked about songs.
+            We sat next to each other in an auditorium. We started talking about songs..
           </p>
           <p className="font-body text-lg text-foreground/70 mb-8 leading-relaxed">
-            Then at the college culturals, we shared stories — about school, about
-            our lives, about everything that made us who we are.
+            Then during Instincts, we shared stories about school, about
+            our lives, about everything that made us who we aree..
           </p>
           <motion.p
             initial={{ opacity: 0 }}
@@ -161,7 +161,7 @@ const Index = () => {
             transition={{ duration: 1, delay: 0.5 }}
             className="font-display text-2xl italic text-primary/80"
           >
-            "And with every word, you became more real to me."
+            "And with every word, you became more real and important to mee"
           </motion.p>
         </div>
       </FadeSection>
@@ -176,7 +176,7 @@ const Index = () => {
           <h2 className="font-display text-4xl md:text-5xl font-bold text-foreground mb-10">
             The Fall
           </h2>
-          <TypewriterSection text="April. That's when I knew. You were my 'The One.'" />
+          <TypewriterSection text="April. That's when I knew. You were my 'The One' " />
           <motion.div
             className="mt-12"
             initial={{ opacity: 0 }}
@@ -197,8 +197,8 @@ const Index = () => {
             viewport={{ once: true }}
             transition={{ delay: 4, duration: 1 }}
           >
-            And from that moment, I decided to give my all — lovingly, completely —
-            to be closer to you.
+            And from that moment, I decided to give my all lovingly, completely and
+            be closer to youuu.
           </motion.p>
         </div>
       </FadeSection>
@@ -212,7 +212,7 @@ const Index = () => {
           <h2 className="font-display text-4xl md:text-5xl font-bold text-foreground mb-12">
             Let Me Tell You About Her
           </h2>
-          <WordReveal words={["Smart", "Chaotic", "Funny", "Caring", "Stubborn"]} />
+          <WordReveal words={["Super Smart", "Funny", "Caring", "Stubborn", "Prettiest"]} />
           <motion.p
             className="font-body text-xl text-foreground/70 mt-10 leading-relaxed"
             initial={{ opacity: 0 }}
@@ -230,10 +230,10 @@ const Index = () => {
             className="mt-8 space-y-4"
           >
             <p className="font-display text-2xl md:text-3xl text-primary italic">
-              "The rarest. The most beautiful."
+              "The rarest and The prettiest girl i had ever seen."
             </p>
             <p className="font-body text-lg text-foreground/60">
-              She stays for the ones she loves — no matter what.
+              She stays for the ones she loves the most, No matter what
             </p>
           </motion.div>
         </div>
@@ -289,7 +289,7 @@ const Index = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.8, type: "spring" }}
           >
-            I Oink Youuu
+            I oink youuu soo muchhh
           </motion.p>
           <motion.p
             className="text-6xl mb-8"
@@ -317,7 +317,6 @@ const Index = () => {
             viewport={{ once: true }}
             transition={{ delay: 2, duration: 1 }}
           >
-            psst… Peppa would be proud 🐽
           </motion.p>
         </div>
       </FadeSection>
@@ -344,7 +343,7 @@ const Index = () => {
           >
             No words needed. Just that one sound.
             <br />
-            And I know she's listening. Really listening.
+            And I know she's listening..
             <br />
             Wanting to know more.
           </motion.p>
@@ -388,7 +387,7 @@ const Index = () => {
             transition={{ delay: 0.5, duration: 1 }}
           >
             She showed me what's right and what's wrong. She corrected my mistakes
-            with love, not judgment.
+            with love, not judgmentt
           </motion.p>
           <motion.p
             className="font-display text-2xl text-primary italic"
@@ -397,7 +396,7 @@ const Index = () => {
             viewport={{ once: true }}
             transition={{ delay: 1, duration: 1 }}
           >
-            She makes me better. Every single day.
+            Yes she shouts at me in anger, but deep down it is out of the love for me, yes she slaps me, not because she doesn't want me, it is cuz she is so disappointed at my actions and wants me to realise that a particular thing she is trying to do is for our good, She makes me better.. Every single day..
           </motion.p>
         </div>
       </FadeSection>
@@ -439,7 +438,7 @@ const Index = () => {
           >
             "Playing with each other's hair…
             <br />
-            even after it turns grey."
+            Even after it turns grey."
           </motion.p>
         </div>
       </FadeSection>
@@ -456,23 +455,23 @@ const Index = () => {
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
             {[
               "Rava crispy dosas",
-              "Biryani lover",
-              "Brownie queen",
-              "Chocolate pastries",
-              "Mango ice cream cones",
-              "Bao bao 🥟",
-              "Taylor Swift 🎵",
+              "Biryanii",
+              "Browniess",
+              "Chocolate pastriess",
+              "Mango ice cream coness",
+              "Bao baoo",
+              "Taylor Swift",
               "Olivia Rodrigo",
-              "JVKE — Beautiful Things",
+              "JVKE Her",
               "Kakha Kakha 🎶",
               "Vaa Senthazhini",
               "Peppa Pig 🐷",
-              "Bridgerton 📺",
-              "TSITP ☀️",
+              "Bridgerton",
+              "TSITP",
               "Maxton Hall",
-              "To All the Boys 💌",
-              "Donuts & burgers",
-              "Fried chicken 🍗",
+              "Romcom moviess",
+              "Donuts & burgerss",
+              "Fried chickenn",
             ].map((item, i) => (
               <motion.div
                 key={item}
@@ -506,31 +505,26 @@ const Index = () => {
             💌 A Letter
           </p>
           <h2 className="font-display text-4xl md:text-5xl font-bold text-foreground mb-12">
-            Dear Sandhya,
+            Sandhyaaa...,
           </h2>
           <div className="text-left space-y-6 font-body text-lg text-foreground/70 leading-relaxed">
             <p>
               There are so many things I want to say to you, and yet words always
-              feel too small for what I feel.
+              feel too small for what I feell about uuu..
             </p>
             <p>
-              From the moment you called my name on that bus, something shifted in
-              me. I didn't know it then, but that was the beginning of the most
-              beautiful chapter of my life.
+              From the moment I saw you on that bus, something shifted within me, 
+              A feeling i had never felt the same way before. I didn't know it then, but that was the beginning of the most
+              beautiful phase of my life yett.
             </p>
             <p>
-              You make the ordinary extraordinary. Your laughter is my favorite
-              sound (after "Ahmmm," of course 🐷). Your stubbornness is my favorite
-              challenge. Your heart is my favorite place to call home.
+              I've been an idiot more times than I can
+              keep track of.. But you've made me want to be better and that's the most
+              powerful thing anyone has ever done for mee, youu make me good both implicitly and expliciltyy.
             </p>
             <p>
-              I know I'm not perfect. I've been an idiot more times than I can
-              count. But you've made me want to be better — and that's the most
-              powerful thing anyone has ever done for me.
-            </p>
-            <p>
-              Every day with you is a gift I don't take for granted.
-              Not a single one.
+              I cherishh and enjoyy being next youu the mostt,
+              I had never yearned to spend an extra few minutes with someone so badly than I have with youuu.
             </p>
             <motion.p
               className="font-display text-xl text-primary italic text-center pt-6"
@@ -539,9 +533,9 @@ const Index = () => {
               viewport={{ once: true }}
               transition={{ delay: 0.5, duration: 1 }}
             >
-              Forever yours,
+              Love,
               <br />
-              Your Tarun ♥
+              Tarun
             </motion.p>
           </div>
         </div>
@@ -567,7 +561,7 @@ const Index = () => {
             viewport={{ once: true }}
             transition={{ delay: 0.5, duration: 1 }}
           >
-            One year. And this is only the beginning.
+            One year, And this is only the beginningg :)
           </motion.p>
         </div>
       </FadeSection>
@@ -599,7 +593,7 @@ const Index = () => {
               viewport={{ once: true }}
               transition={{ delay: 1.5, duration: 1 }}
             >
-              Will you be my Valentine?
+              Will you be my Queen on the fourteen?
             </motion.p>
             <motion.button
               onClick={() => setSaidYes(true)}
@@ -624,13 +618,13 @@ const Index = () => {
           >
             <p className="text-8xl mb-8">💝</p>
             <h2 className="font-display text-5xl md:text-7xl font-bold text-primary mb-6">
-              I Oink You Forever
+              I Oink Youuu Soo Muchh
             </h2>
             <p className="font-body text-xl text-foreground/70 mb-4">
-              You just made the happiest boy in the world even happier.
+              You just made the happiest boi in the world even happier
             </p>
             <p className="font-display text-2xl text-primary/60 italic">
-              — Your Tarun 🐷♥
+              — From Your 9th std boi who feels at home when he is resting on your lap babying youu and getting babied by youu 🐷
             </p>
           </motion.div>
         )}
@@ -640,7 +634,7 @@ const Index = () => {
       {/* Footer */}
       <div className="py-12 text-center">
         <p className="font-sans-clean text-xs text-foreground/20">
-          Made with all my heart, for my Kutty Pappaa ♥
+          Made with all my heart, for my Kutty Pappaaaa ♥
         </p>
       </div>
     </div>
